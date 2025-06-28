@@ -1,0 +1,13 @@
+.sign-up, .login{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    color: blue;
+ }
+ h1{
+    margin-bottom: 20px;
+ }
+ .common-form input{
+   color: blue;
+   border-radius: 5px;
+}

@@ -1,0 +1,43 @@
+<div class="my-order">
+    <h2>My Orders</h2>
+    <div class="row order-item">
+        <div class="col-sm-2">
+            <span><b>Order</b></span>
+        </div>
+        <div class="col-sm-2">
+            <span><b>Name</b></span>
+        </div>
+        <div class="col-sm-2">
+            <span><b>Order Id</b></span>
+        </div>
+        <div class="col-sm-2">
+            <span><b>Price</b></span>
+        </div>
+        <div class="col-sm-2">
+            <span><b>Status</b></span>
+        </div>
+        <div class="col-sm-2">
+            <span><b>Action</b></span>
+        </div>   
+    </div>
+    <div class="row order-item" *ngFor="let item of orderdata">
+        <div class="col-sm-2">
+           <img class="cursor" routerLink="/product-details/{{item.productId}}" src="{{item.image}}" alt="" class="img-fluid" />
+        </div>
+        <div class="col-sm-2">
+            <span class="cursor" routerLink="/product-details/{{item.productId}}">{{item.Name}}</span>
+        </div>
+        <div class="col-sm-2">
+            <span>#{{item.id}}</span>
+        </div>
+        <div class="col-sm-2">
+            <span>{{item.total}}</span>
+        </div>
+        <div class="col-sm-2">
+            <span>In Progress</span>
+        </div>
+        <div class="col-sm-2">
+            <span><button class="btn btn-primary" (click)="item.id && CancelOrder(item.id)">Cancel Order</button></span>
+        </div>   
+    </div>
+</div>

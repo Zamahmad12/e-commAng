@@ -1,0 +1,14 @@
+h2{
+    color: blue;
+    margin-bottom: 35px;
+    margin-top: 25px;
+    display: flex;
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 1px solid #ccc;
+    justify-content: center;
+}
+.common-form input,textarea{
+    color: blue;
+    border-radius: 5px;
+}

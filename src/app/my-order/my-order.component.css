@@ -1,0 +1,21 @@
+.my-order h2{
+    color: blue;
+   margin-top: 60px; 
+   margin-bottom: 40px;
+   display: flex;
+    background-color: #ccc;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 1px solid #ccc;
+}
+.my-order .img-fluid{
+   width: 100px;
+    height: 80px;
+}
+.order-item{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    color: blue;
+}

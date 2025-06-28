@@ -1,0 +1,22 @@
+.Checkout h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: blue;
+    display: flex;
+    background-color: #ccc;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 1px solid #ccc;
+}
+.Checkout h3{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: blue;
+}
+.Checkout h4,h5{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: blue;
+}

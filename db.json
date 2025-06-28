@@ -1,0 +1,368 @@
+{
+  "seller": [
+    {
+      "id": "d2f5",
+      "Name": "Zameer",
+      "Password": "zam@123",
+      "Email": "Zam@gmail.com"
+    },
+    {
+      "id": "6254",
+      "Name": "faizi",
+      "Password": "zam@123",
+      "Email": "faizi@seller.com"
+    },
+    {
+      "id": "3d36",
+      "Name": "john",
+      "Password": "zam@123",
+      "Email": "john@seller.com"
+    },
+    {
+      "id": "0505",
+      "Name": "peter",
+      "Password": "zam@123",
+      "Email": "peter@seller.com"
+    },
+    {
+      "id": "b5c6",
+      "Name": "alina",
+      "Password": "zam@123",
+      "Email": "alina@seller.com"
+    },
+    {
+      "Name": "Wamique Shaikh",
+      "Password": "zam@123",
+      "Email": "wamique@seller.com",
+      "id": "PJIopjf"
+    }
+  ],
+  "user": [
+    {
+      "Name": "Ayan",
+      "Password": "zam@123",
+      "Email": "Ayan@user.com",
+      "id": 1
+    },
+    {
+      "Name": "Davis",
+      "Password": "zam@123",
+      "Email": "david@user.com",
+      "id": 2
+    },
+    {
+      "Name": "Arham",
+      "Password": "zam@123",
+      "Email": "arham@user.com",
+      "id": 3
+    },
+    {
+      "Name": "Khijar",
+      "Password": "zam@123",
+      "Email": "khijar@user.com",
+      "id": 4
+    },
+    {
+      "Name": "peter",
+      "Password": "zam@123",
+      "Email": "peter@user.com",
+      "id": 5
+    },
+    {
+      "Name": "curran",
+      "Password": "zam@123",
+      "Email": "curran@user.com",
+      "id": 6
+    },
+    {
+      "Name": "Abd",
+      "Password": "zam@123",
+      "Email": "abd@gmail.com",
+      "id": 7
+    },
+    {
+      "Name": "HP Laptop ",
+      "Password": "ass",
+      "Email": "john@seller.com",
+      "id": 8
+    },
+    {
+      "Name": "",
+      "Password": "",
+      "Email": "",
+      "id": 9
+    },
+    {
+      "Name": "Zameer",
+      "Password": "zam@123",
+      "Email": "Zam@gmail.com",
+      "id": 10
+    },
+    {
+      "Name": "Yasir",
+      "Password": "zam@123",
+      "Email": "yasir@user.com",
+      "id": 11
+    },
+    {
+      "Name": "",
+      "Password": "",
+      "Email": "",
+      "id": 12
+    }
+  ],
+  "product": [
+    {
+      "Name": "I Phone 15",
+      "Price": "99999",
+      "Category": "Mobile",
+      "Color": "Black",
+      "Discryption": "This is Latest Apple Product..",
+      "ImageUrl": "https://m.media-amazon.com/images/I/31R4GM35a5L.jpg",
+      "id": "8be71"
+    },
+    {
+      "Name": "HP Laptop ",
+      "Price": "40000",
+      "Category": "Laptop",
+      "Color": "Gray",
+      "Discryption": "This is Hp Laptop",
+      "ImageUrl": "https://images-na.ssl-images-amazon.com/images/I/61MGsq1ZVaL.jpg",
+      "id": "24c5"
+    },
+    {
+      "id": "5d0f",
+      "Name": "Nike Shoes",
+      "Price": "2500",
+      "Category": "Shoes",
+      "Color": "Black",
+      "Discryption": "This is Trending Shoes",
+      "ImageUrl": "https://t3.ftcdn.net/jpg/05/50/67/70/360_F_550677031_fa7Ch74Q1O5BBq8ukR3liafwaPEjSyFN.jpg"
+    },
+    {
+      "id": "0fc2",
+      "Name": "Jeans",
+      "Price": "1500",
+      "Category": "Jeans",
+      "Color": "Blue",
+      "Discryption": "This is Levice Popular Jeans.\n ",
+      "ImageUrl": "https://m.media-amazon.com/images/I/51Ra17DC3hL.jpg"
+    },
+    {
+      "id": "692e",
+      "Name": "Hoodie",
+      "Price": "1300",
+      "Category": "Hoodie",
+      "Color": "Black",
+      "Discryption": "This is Jack&Jones Hoodie.",
+      "ImageUrl": "https://images.cdn.inspogroup.net/ooOQI4X7uO-uQzlUYSDh0KX_9hhiDagyUT2G7exOLaw/g:ce/trim:10/h:440/w:330/czM6L/y9zdH/lsaWdodC1pbWctcHJvY2Vzc2luZy9waG90b2JveC82MTI4YTM2OWFhM2MxYzMwYjAxNThiMjQyMjdlYWZmYi5qcGc"
+    },
+    {
+      "id": "b5f9",
+      "Name": "Sweatshirt",
+      "Price": "1500",
+      "Category": "Sweatshirt",
+      "Color": "White",
+      "Discryption": "This is Jack&Jones Sweatshirt.",
+      "ImageUrl": "https://static.miinto.net/497bab6a819b151ebcb0b18e1f5279ce.avif?width=693&height=842"
+    },
+    {
+      "id": "11c1",
+      "Name": "Sweatshirt",
+      "Price": "1400",
+      "Category": "Sweatshirt",
+      "Color": "Red",
+      "Discryption": "This is Jack&Jones Sweatshirt.",
+      "ImageUrl": "https://static.miinto.net/f2dac062953ddd859d31576d7c19854e.avif?width=693&height=842"
+    },
+    {
+      "id": "b08f",
+      "Name": "Sparx Sleeper",
+      "Price": "400",
+      "Category": "Sleeper",
+      "Color": "Blue",
+      "Discryption": "This is Sparx Sleeper",
+      "ImageUrl": "https://m.media-amazon.com/images/I/71-JrD05RaL.jpg"
+    },
+    {
+      "id": "31af",
+      "Name": "Sparx Flip Flop",
+      "Price": "400",
+      "Category": "Sleeper",
+      "Color": "Blue",
+      "Discryption": "This is Sparx Flip Flop",
+      "ImageUrl": "https://m.media-amazon.com/images/I/71V2vx9kZpL.jpg"
+    },
+    {
+      "id": "a49f",
+      "Name": "Apple Ear Buds",
+      "Price": "6000",
+      "Category": " Ear Buds",
+      "Color": "Blue",
+      "Discryption": "This is Apple Ear Buds",
+      "ImageUrl": "https://m.media-amazon.com/images/I/71bhWgQK-cL.jpg"
+    },
+    {
+      "Name": "Smart Watch",
+      "Price": "2200",
+      "Category": "Watch",
+      "Color": "Green",
+      "Discryption": "This is Smart Watch",
+      "ImageUrl": "https://media.istockphoto.com/id/473617412/photo/image-of-apple-watch-being-used-siri-app-clock-face.jpg?s=612x612&w=0&k=20&c=l-yiZqHWOxIMI3eluQLla1R5r-mq4aSzqQ3dw0ZqDNo=",
+      "id": "toHV79c"
+    },
+    {
+      "Name": "T-Shirt",
+      "Price": "800",
+      "Category": "Shiert",
+      "Color": "Blue",
+      "Discryption": "This is Blue Shirt",
+      "ImageUrl": "https://www.jlindebergusa.com/cdn/shop/files/GMST11449_O140_c.jpg?v=1720796976&width=1467",
+      "id": "Yi19XXo"
+    },
+    {
+      "Name": "Hair Trimmer",
+      "Price": "2500",
+      "Category": "Trimmer",
+      "Color": "Gray ",
+      "Discryption": "This is hair trimmer",
+      "ImageUrl": "https://media.istockphoto.com/id/93731048/photo/hair-trimmer.jpg?s=612x612&w=0&k=20&c=uAWVOia29CMFdqWwVHxRvzSPrtT6WiE48vXPHOFAZLU=",
+      "id": "-c4cd0G"
+    },
+    {
+      "Name": "Trolly Bag",
+      "Price": "2899",
+      "Category": "Bag",
+      "Color": "Black",
+      "Discryption": "This is Carry Luggage",
+      "ImageUrl": "https://www.cosmoid.net/cdn/shop/files/4_e9cd7693-293e-41fc-bade-4942571e7946.jpg?v=1729154536&width=1445",
+      "id": "E8gqnzE"
+    },
+    {
+      "Name": "Philips Iron",
+      "Price": "1500",
+      "Category": "Iron",
+      "Color": "Blue",
+      "Discryption": " Perfect Care 3000 Series Steam Iron - 1250 W power.",
+      "ImageUrl": "https://m.media-amazon.com/images/I/51uMxNN0-KL.jpg",
+      "id": "-xzjiwt"
+    },
+    {
+      "Name": "Beard Oil",
+      "Price": "600",
+      "Category": "Oil",
+      "Color": "Black",
+      "Discryption": "This is Beard Growing Oil",
+      "ImageUrl": "https://livebearded.com/cdn/shop/products/Tombstone_-_Beard_Oil.jpg?v=1667343573&width=600",
+      "id": "L0cUV-B"
+    },
+    {
+      "Name": "Bajaj Hair Oil",
+      "Price": "150",
+      "Category": "Hair Oil",
+      "Color": "Yellow",
+      "Discryption": "Bajaj Almond Hair Oil",
+      "ImageUrl": "https://i5.walmartimages.com/seo/Bajaj-Almond-Hair-Oil-100ml_ddb82037-edff-49a0-ba9b-28f645fe2dad.f63d2852d30e1ead9b139ceca903cdf7.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "id": "js7Nboc"
+    },
+    {
+      "Name": "Water Bottle ",
+      "Price": "50",
+      "Category": "Bottle",
+      "Color": "Transparent",
+      "Discryption": "This is water bottle ",
+      "ImageUrl": "https://media.gettyimages.com/id/184860771/photo/bottle-of-water-isolated-on-white.jpg?s=612x612&w=0&k=20&c=aNglheH0EH6kjI3cUjoqYFNJn4eXgJrKSoqD-QjQ6q4=",
+      "id": "ACTvT8g"
+    },
+    {
+      "Name": "Boot",
+      "Price": "1000",
+      "Category": "Shoes",
+      "Color": "Black",
+      "Discryption": "This is Boot for Men",
+      "ImageUrl": "https://i.pinimg.com/originals/e7/7a/4e/e77a4e5189b923ccfdcde5a7e5155403.jpg",
+      "id": "s9wh2mG"
+    },
+    {
+      "Name": "Ceeling Fan",
+      "Price": "2200",
+      "Category": "Fan",
+      "Color": "Gray",
+      "Discryption": "This is Ceeling Lightening Fan",
+      "ImageUrl": "https://media.istockphoto.com/id/1322067602/photo/ceiling-lighting-fan.jpg?s=612x612&w=0&k=20&c=Dxmflf_EW5sn-9FCJ6a3DFUSRajt1NTtm9SMH4owai8=",
+      "id": "GK03SpD"
+    },
+    {
+      "Name": "Mac Book",
+      "Price": "120000",
+      "Category": "Laptop",
+      "Color": "Black",
+      "Discryption": "This is apple products",
+      "ImageUrl": "https://media.gettyimages.com/id/150604033/photo/apple-macbook-pro-session-for-apple-bookazine-taken-on-september-5-2011.jpg?s=612x612&w=0&k=20&c=iGO8WBTcmDEA0XoWPs8oKoQzjGiFvxDtQgOtJCCwv8w=",
+      "id": "hMnupp1"
+    },
+    {
+      "Name": "Leather Jacket",
+      "Price": "2499",
+      "Category": "Jacket",
+      "Color": "Black",
+      "Discryption": "This is Leather Jacket for men",
+      "ImageUrl": "https://www.thejacketmaker.com/cdn/shop/files/Men-Leather-Jackets-1582970628214_d6c2af3e-cd7e-44b8-88cb-94527f33218d_1024x1024.webp?v=1719244852",
+      "id": "jW3cbCo"
+    },
+    {
+      "Name": "Leather Belt",
+      "Price": "1199",
+      "Category": "Belt",
+      "Color": "Brown",
+      "Discryption": "This is men's Leather Belt with keeper ring",
+      "ImageUrl": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/20155529_fpx.tif?qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0&fmt=jpeg&wid=342&hei=417",
+      "id": "Vt-lVv9"
+    },
+    {
+      "Name": "Gold Ring",
+      "Price": "12000",
+      "Category": "Ring",
+      "Color": " lightgoldenrodyellow",
+      "Discryption": "This is gold ring for men",
+      "ImageUrl": "https://media.gettyimages.com/id/154956296/photo/gold-ring.jpg?s=612x612&w=0&k=20&c=i5wvnq88q5w9au82TdPFNUlHWnahvuCOhmlFs2mpZD4=",
+      "id": "w7hKEK-"
+    }
+  ],
+  "cart": [
+    {
+      "Name": "I Phone 15",
+      "Price": "99999",
+      "Category": "Mobile",
+      "Color": "Black",
+      "Discryption": "This is Latest Apple Product..",
+      "ImageUrl": "https://m.media-amazon.com/images/I/31R4GM35a5L.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": "8be71",
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "email": "zamahmad.sk12@gmail.com",
+      "Address": "Tedhi Puliya",
+      "contact": "9889756267",
+      "total": 1454,
+      "image": "https://images.cdn.inspogroup.net/ooOQI4X7uO-uQzlUYSDh0KX_9hhiDagyUT2G7exOLaw/g:ce/trim:10/h:440/w:330/czM6L/y9zdH/lsaWdodC1pbWctcHJvY2Vzc2luZy9waG90b2JveC82MTI4YTM2OWFhM2MxYzMwYjAxNThiMjQyMjdlYWZmYi5qcGc",
+      "productId": "692e",
+      "Name": "Hoodie",
+      "id": 2
+    },
+    {
+      "email": "zamahmad.sk12@gmail.com",
+      "Address": "Tedhi Puliya",
+      "contact": "9889756267",
+      "total": 1130,
+      "image": "https://i.pinimg.com/originals/e7/7a/4e/e77a4e5189b923ccfdcde5a7e5155403.jpg",
+      "productId": "s9wh2mG",
+      "Name": "Boot",
+      "id": 3
+    }
+  ]
+}

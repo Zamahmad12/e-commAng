@@ -1,0 +1,40 @@
+
+h2{
+    color: blue;
+    margin-bottom: 80px;
+    margin-top: 25px;
+    display: flex;
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 1px solid #ccc;
+    justify-content: center;
+}
+img{
+    width: 80px;
+    height: 100px;
+}
+.product-table{
+    margin-top: 20px;
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+.product-table th{  
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    border: 1px solid #ddd;
+}
+.product-table td{
+    font-size: small;
+    font-size: small;
+    border: 1px solid blue;
+    color: blue;
+}
+.edit-button{
+    height: 35px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    margin: 4px 2px;
+    cursor: pointer;
+}

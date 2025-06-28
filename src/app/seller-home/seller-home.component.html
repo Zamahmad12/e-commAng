@@ -1,0 +1,31 @@
+<div>
+    <h2>Products List</h2>
+    <p class="error">{{DeleteMessage}}</p>
+    <table class="product-table">
+        <thead class="product-table-head">
+        <tr>
+            <th>Image</th>
+            <th> Name</th>
+            <th> Price</th>
+            <th> Category</th>
+            <th> Color</th>
+            <th> Description</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let product of productlist">
+            <td class="cursor" routerLink="/product-details/{{ product.id }}"><img  [src]="product.ImageUrl"/></td>
+            <td class="cursor" routerLink="/product-details/{{ product.id }}">{{product.Name}}</td>
+            <td>{{product.Price}}</td>
+            <td>{{product.Category}}</td>
+            <td>{{product.Color}}</td>
+            <td>{{product.Discryption}}</td>
+            <td >
+                <button class="form-button" (click)="DeleteProd(product.id)">Delete</button>
+                <button class="edit-button" routerLink="/seller-update-product/{{product.id}}">Edit</button>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>

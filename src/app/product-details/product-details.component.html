@@ -1,0 +1,25 @@
+<div class="row productDetails" *ngIf="productDetails">
+    <div class="col-md-6">
+        <img class="productImage" src="{{productDetails.ImageUrl}}">
+    </div>
+    <div class="col-md-6">
+        <div class="details">
+            <h1>{{productDetails.Name}}</h1>
+            <h5><b>Price: {{productDetails.Price}}</b></h5>
+            <div>
+                <h6>Color: </h6>
+                <h5 [style.backgroundColor]="productDetails.Color" class="productcolor"></h5>
+            </div>
+            <h6> Category : {{productDetails.Category}}</h6>
+            <h6> Discription : {{productDetails.Discryption}}</h6>
+            <button *ngIf="!remveCart" class="btn btn-primary buttonCart" (click)="AddToCart()" >Add to Cart</button>
+            <button *ngIf="remveCart" class="btn btn-primary buttonCart" (click)="RemoveToCart(productDetails.id)" >Remove to Cart</button>
+            <button class="btn btn-primary buttonBuy" routerLink="/cart-page">Buy Now</button>
+            <div class="quantity">
+                <button class="btn btn-primary " (click)="HandleQuqntity('min')">--</button>
+                <input type="text" value="{{productQuantity}}">
+                <button class="btn btn-primary" (click)="HandleQuqntity('max')">++</button>
+            </div>
+        </div>
+    </div>
+</div>
